@@ -1,0 +1,10 @@
+{
+  "name": "User Name",
+  "email": "email@email.com",
+  "wd_email": "wd_email@email.com",
+  "wd_key": "wd_key",
+  "wd_key_iter": 2,
+  "smtp": "smtp.gmail.com",
+  "smtp_port": 465,
+  "ssl": true
+}
