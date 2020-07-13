@@ -15,4 +15,5 @@ This Python code sends an email to the user. The `input.json` file includes the 
 
 ### Warning:  
 This is not a secure way of passing email password when using unsecured or public networks. Update the algorithm as desired.
+Read `wd_key` from OS ENV variables. Always better!
 
